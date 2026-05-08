@@ -13,8 +13,8 @@
 #############################################################################
 # USER-DEFINED PATHS — edit these before running
 #############################################################################
-SUBJECT_DIR="/Users/kayigwe/Desktop/Kelley_Lund/Swanberg_BET_Data/scripts/ISMSM_SCRIPTS/github_files/output"
-TEMPLATE_DIR="/Users/kayigwe/Desktop/Kelley_Lund/Swanberg_BET_Data/scripts/ISMSM_SCRIPTS/github_files/templates"
+SUBJECT_DIR= "/path/to/subject/scans_directory" #directory of subject scan directories
+TEMPLATE_DIR="path/to/template_scans" # the directory that contains the .nii and/or .nii.gz
 #############################################################################
 
 #############################################################################
