@@ -68,7 +68,7 @@ else
 fi
 
 #############################################################################
-# REORIENTATION OPTIONS — uncomment and run manually if orientation check
+# REORIENTATION OPTIONS - uncomment and run manually if orientation check
 # returns FALSE. Choose Option 1 OR Option 2, not both.
 #############################################################################
 
